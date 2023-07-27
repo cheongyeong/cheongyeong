@@ -1,10 +1,12 @@
 <div align="center"> 
+<br>
+<br>
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Welcome%20to%20cheongyeong's%20GitHub%20🤚&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 <br>
 
-#### 🔨 Once I've used 기술 스택 🔨
+#### 🔨 Once I've used 🔨
 
 <br>
 
@@ -23,5 +25,9 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<br>
+<br>
  
 
+</div>
